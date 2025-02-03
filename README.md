@@ -9,5 +9,4 @@ Features:
 
 Enabling early detection of brain tumors with advanced AI technology!
 
-Dataset
 The dataset used for this project is sourced from Kaggle - Brain Tumor MRI Dataset. It contains labeled MRI images of brain tumor and healthy images, which are used for training and testing the brain tumor detection model.
